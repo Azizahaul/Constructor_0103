@@ -9,7 +9,7 @@ class mahasiswa {
 mahasiswa::mahasiswa(int nim, string nama){
     cout << "constructor dengan parameter terpanggil" << endl;
     cout << "NIM   : " << endl;
-    cout << "Nama    : "<< endl;
+    cout << "Nama  : " << endl;
 }
 
 int main(){
